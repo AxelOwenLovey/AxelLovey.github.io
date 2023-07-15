@@ -1,0 +1,220 @@
+
+/*
+Body
+*/
+
+body {
+    font-family: "Helvetica", "Lucida Grande", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    background-color: rgb(255, 196, 249);
+    font-size: 16px;
+}
+
+/*
+Interact
+*/
+
+.navbar {
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+}
+.nav-item{
+    padding: 13px;
+    text-decoration: none;
+    color: aliceblue;
+}
+.anclas{
+    height: 10px;
+    padding: 20px;
+}
+
+/*
+Visual
+*/
+
+.content{
+    background-color: rgb(255, 193, 118);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    margin: 30px ;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.paginator{
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+}
+.home4{
+    background-color: purple;
+}
+.co-titular4{
+    color: rgb(173, 14, 141);
+}
+.arrows{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: purple;
+}
+.home4 .content{
+    background-color: #000;
+}
+
+/*
+Text
+*/
+
+p {
+    text-align: center;
+    text-decoration: underline;
+    font-family: monospace;
+    text-align: center;
+    text-indent: 39px;
+    font-size: 1.2em;
+}
+
+h1 {
+    font-family: serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2em;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: rgb(248, 0, 112);
+}
+.advertencia{
+    width: 400px;
+    display: flex;
+    align-self: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.descripcion{
+    color: black;
+}
+.telephonguy{
+    display: flex;
+}
+.telephonguy h2{
+    flex: 1;
+    margin: 100%;
+}
+
+/*
+Images
+*/
+
+.imagenhelpy{
+    width: 100px;
+    display: flex;
+    align-self: center;
+    border-radius: 15px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+.imagenfnaf{
+    width: 400px;
+    border-radius: 15px;
+    max-width: 100%;
+    height: auto;
+}
+.imagenFreddy{
+    width: 100px;
+    display: flex;
+    align-self: center;
+    max-width: 100%;
+    height: auto;
+}
+.imagenBonnie{
+    width: 100px;
+    display: flex;
+    align-self: center;
+    max-width: 100%;
+    height: auto;
+}
+.imagenChica{
+    width: 100px;
+    display: flex;
+    align-self: center;
+    max-width: 100%;
+    height: auto;
+}
+.imagenFoxy{
+    width: 100px;
+    display: flex;
+    align-self: center;
+    max-width: 100%;
+    height: auto;
+}
+.imagengames{
+    width: 400px;
+    display: flex;
+    align-self: center;
+    border-radius: 15px;
+    max-width: 100%;
+    height: auto;
+}
+.image-container{
+    display: flex;
+    max-width: 100%;
+    height: auto;
+}
+.image-container img{
+    width: 100px;
+    flex: 1;
+    margin: 20px;
+    max-width: 100%;
+    height: auto;
+}
+.imagent {
+    width: 100px;
+    flex: 1;
+    margin: 20px;
+    max-width: 100%;
+    height: auto;
+}
+.imagens {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+.imageng{
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+    display: flex;
+}
+img {
+    display: flex;
+    align-self: center;
+    max-width: 100%;
+    height: auto;
+}
+.imagenmichael{
+    width: 400px;
+    display: flex;
+    margin-left: 220px;
+    margin-top: 40px;
+    max-width: 100%;
+    height: auto;
+}
+.imagenburn{
+    margin-left: 35px;
+}
+/*
+Un Saludo Profe Gonza y profe Taro c:
+*/
